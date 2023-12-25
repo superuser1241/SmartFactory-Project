@@ -1,0 +1,205 @@
+﻿@model WeatherScheduler.Controllers.HomeController.IndexViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <link href='https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.css' rel='stylesheet' />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzLqxkMa4eOtzm6NO5PLZvvX85VMYGWLs&callback=initMap&libraries=&v=weekly" async></script>
+    <script src='https://cdn.jsdelivr.net/npm/moment@2.29.1/moment.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.js'></script>
+    <script src="~/js/Weather.js" defer> </script>
+    <script src="~/js/Map.js" defer> </script>
+    <style type="text/css">
+    
+        /* Set the size of the div element that contains the map */
+        #map {
+            height: 250px;
+            width: 100%;
+        }
+
+        /* FullCalendar 이벤트 스타일 */
+        .fc-event {
+            background-color: darkgreen; /* 이벤트 배경색을 파란색으로 설정 */
+            color: #FFFFFF; /* 이벤트 텍스트 색상을 흰색으로 설정 */
+        }
+
+        /* FullCalendar 날짜 스타일 */
+        .fc-day {
+            background-color: #000000; /* 날짜 배경색을 검정색으로 설정 */
+            color: #FFFFFF; /* 날짜 텍스트 색상을 흰색으로 설정 */
+        }
+    </style>
+</head>
+<body>
+    <form method="post">
+        <div class="border p-2 mt-4 h-800" style="height: 800px;">
+            <div class="container">
+                <!-- 상단 레이아웃 -->
+                <div class="row pt-1 pb-2">
+                    <!-- 왼쪽 부분 -->
+                    <div class="col-5 border" style="height: 540px; display: flex; flex-direction: column;">
+                        <!-- 도시 선택 섹션 -->
+                        <div class=" m-2">
+                            <div class="weather-input">
+                                <h3>도시명 입력</h3>
+                                <input class="city-input" type="text" placeholder="E.g., New York, London, Tokyo" id="cityInput">
+                                <button class="search-btn" type="button" onclick="showCity()">Search</button>
+                            </div>
+                        </div>
+                        <!-- 지도 및 날씨 정보 섹션 -->
+                        <div class="border" style="height: 250px;">
+                            <div id="map"></div>
+                        </div>
+                        <div class="border mt-4" style="height: 125px;">
+                            <div class="weather-data">
+                                <div class="current-weather">
+                                    <div class="details">
+                                        <h2>_______ ( ______ )</h2>
+                                        <h6>Temperature: __°C</h6>
+                                        <h6>Wind: __ M/S</h6>
+                                        <h6>Humidity: __%</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 오른쪽 부분 -->
+                    <div class="col-7 border">
+                        <!-- 달력 섹션 -->
+                        <div class="border" style="height: 100%;">
+                            <div id='calendar'></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 아래 할 일 리스트 섹션 -->
+            <div class="container">
+                <div class="row pt-1 pb-2 ">
+                    <div style="height: 260px; overflow-y: auto;">
+                        <div class="days-forecast">            
+                            <ul class="weather-cards">
+                                <li class="card">
+                                    <h3>( ______ )</h3>
+                                    <h6>Temp: __C</h6>
+                                    <h6>Wind: __ M/S</h6>
+                                    <h6>Humidity: __%</h6>
+                                </li>
+                                <li class="card">
+                                    <h3>( ______ )</h3>
+                                    <h6>Temp: __C</h6>
+                                    <h6>Wind: __ M/S</h6>
+                                    <h6>Humidity: __%</h6>
+                                </li>
+                                <li class="card">
+                                    <h3>( ______ )</h3>
+                                    <h6>Temp: __C</h6>
+                                    <h6>Wind: __ M/S</h6>
+                                    <h6>Humidity: __%</h6>
+                                </li>
+                                <li class="card">
+                                    <h3>( ______ )</h3>
+                                    <h6>Temp: __C</h6>
+                                    <h6>Wind: __ M/S</h6>
+                                    <h6>Humidity: __%</h6>
+                                </li>
+                                <li class="card">
+                                    <h3>( ______ )</h3>
+                                    <h6>Temp: __C</h6>
+                                    <h6>Wind: __ M/S</h6>
+                                    <h6>Humidity: __%</h6>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <script>
+        var map;
+        var markers = []; // 마커 배열 선언
+
+        function initMap() {
+            var seoul = { lat: 37.5642135, lng: 127.0016985 };
+            map = new google.maps.Map(
+                document.getElementById('map'), {
+                zoom: 12,
+                center: seoul
+            });
+
+            // 초기에 서울에 빨간색 마커 생성 및 추가
+            var marker = new google.maps.Marker({
+                position: seoul,
+                map: map,
+                label: "서울"
+            });
+
+            // 배열에 마커 추가
+            markers.push(marker);
+        }
+
+        function showCity() {
+            var cityName = document.getElementById('cityInput').value;
+            var geocoder = new google.maps.Geocoder();
+
+            geocoder.geocode({ 'address': cityName }, function (results, status) {
+                if (status === 'OK') {
+                    var cityLocation = results[0].geometry.location;
+
+                    // 모든 기존 마커 제거
+                    for (var i = 0; i < markers.length; i++) {
+                        markers[i].setMap(null);
+                    }
+
+                    // 새로운 마커 추가
+                    var marker = new google.maps.Marker({
+                        position: cityLocation,
+                        map: map,
+                        label: cityName
+                    });
+
+                    // 지도를 새로운 위치로 이동
+                    map.setCenter(cityLocation);
+
+                    // 새로운 마커 배열에 추가
+                    markers.push(marker);
+                } else {
+                    alert('도시를 찾을 수 없습니다.');
+                }
+            });
+        }
+    </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var calendarEl = document.getElementById('calendar');
+            var calendar = new FullCalendar.Calendar(calendarEl, {
+                initialView: 'dayGridMonth',
+                height: '100%', // 달력의 높이를 100%로 설정
+                events: [
+        @foreach (var item in Model.Schedules)
+        {
+            <text>
+                            {
+                                title: "@Html.Raw(item.Title)" + " -@Html.Raw(item.ID)-",
+                                start: "@item.DateTime.ToString("yyyy-MM-dd")",
+                                end: "@item.EndDateTime.ToString("yyyy-MM-dd")"
+                            },
+            </text>
+        }
+                        // Add more events as needed
+                    ]
+            });
+
+            calendar.render();
+        });
+    </script>
+</body>
+</html>

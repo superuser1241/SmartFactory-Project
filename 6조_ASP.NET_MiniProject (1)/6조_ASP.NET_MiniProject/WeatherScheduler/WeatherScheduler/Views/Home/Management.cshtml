@@ -1,0 +1,146 @@
+﻿@model IEnumerable<WeatherScheduler.Models.Schedule>
+
+@{
+    ViewData["Title"] = "Management";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <link href='https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&display=swap' rel='stylesheet'>
+    <style>
+        body {
+            background-color: #121212;
+            color: #fff;
+            font-family: 'Nunito Sans', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #00ff00;
+            font-size: 36px;
+            margin-top: 30px;
+        }
+
+        a {
+            color: #00ff00;
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+        .container {
+            max-width: 1200px; /* 페이지 컨텐츠를 중앙에 두고 최대 너비 설정 */
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .action-links a {
+            background-color: #00ff00;
+            color: #000;
+            border: none;
+            padding: 10px 20px;
+            margin-right: 10px;
+            border-radius: 5px;
+            text-transform: uppercase;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+
+            .action-links a:hover {
+                background-color: #009900;
+            }
+
+        .table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+            .table th, .table td {
+                border: 1px solid #444;
+                padding: 10px;
+                text-align: left;
+            }
+
+            .table th {
+                background-color: #333;
+                color: #fff;
+            }
+
+            .table tbody tr:nth-child(even) {
+                background-color: #222;
+            }
+
+            .table tbody tr:nth-child(odd) {
+                background-color: #111;
+            }
+
+            .table tbody tr:hover {
+                background-color: #444;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Management Scedule</h1>
+
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ID)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Title)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Content)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DateTime)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EndDateTime)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ID)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Title)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Content)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateTime)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EndDateTime)
+                        </td>
+                        <td class="action-links">
+                            <a asp-action="Delete" asp-route-id="@item.No">삭제</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="action-links">
+            <a asp-action="Create">새로 생성</a>
+        </div>
+    </div>
+</body>
+</html>

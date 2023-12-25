@@ -1,0 +1,427 @@
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.생산.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.pdb
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.회원관리.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.문의.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.판매통계.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.주문조회.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.판매량그래프.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.지역별판매량.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.생산.lg.resources
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Server1111111\Server1111111\obj\Debug\Server1111111.서버문의.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.문의.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.생산.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.주문조회.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.지역별판매량.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.판매량그래프.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.판매통계.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.회원관리.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.생산.lg.resources
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server1111111\Server1111111\obj\Debug\Server1111111.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.문의.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.생산.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.주문조회.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.지역별판매량.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.판매량그래프.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.판매통계.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.회원관리.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.생산.lg.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\Server1111111 (1)\Server1111111\Server1111111\obj\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.문의.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.생산.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.주문조회.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.지역별판매량.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.판매량그래프.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.판매통계.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.회원관리.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.생산.lg.resources
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\스마트팩토리 관련자료\Server\Server1111111\Server1111111\obj\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.문의.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.생산.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.주문조회.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.지역별판매량.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.판매량그래프.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.판매통계.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.회원관리.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.생산.lg.resources
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server\Server1111111\Server1111111\obj\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.문의.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.생산.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.주문조회.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.지역별판매량.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.판매량그래프.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.판매통계.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.회원관리.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.생산.lg.resources
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.문의.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.생산.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.주문조회.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.지역별판매량.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.판매량그래프.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.판매통계.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.회원관리.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.생산.lg.resources
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.문의.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.생산.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.주문조회.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.지역별판매량.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.판매량그래프.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.판매통계.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.회원관리.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.생산.lg.resources
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Inquiry.resources
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Production.resources
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Order_Inquiry.resources
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Sales_Statistics.resources
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Member_management.resources
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.Production.lg.resources
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\서버완\서버완\Server111111\Server1111111\Server1111111\obj\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\Server1111111.exe.config
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\Server1111111.pdb
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.Form1.resources
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.Properties.Resources.resources
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.Inquiry.resources
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.Production.resources
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.Order_Inquiry.resources
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.Sales_Statistics.resources
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.Member_management.resources
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.Production.lg.resources
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\lg\Server1111111.resources.dll
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.csproj.CopyComplete
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.exe
+C:\Users\Admin\Desktop\Server완\Server완\Server1111111\obj\Debug\Server1111111.pdb

@@ -1,0 +1,121 @@
+﻿@model WeatherScheduler.Models.Schedule
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <link href='https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&display=swap' rel='stylesheet'>
+    <style>
+        body {
+            background-color: #121212;
+            color: #fff;
+            font-family: 'Nunito Sans', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #00ff00;
+            font-size: 36px;
+            margin-top: 30px;
+        }
+
+        a {
+            color: #00ff00;
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-control {
+            background-color: #111;
+            border: 1px solid #444;
+            color: #fff;
+            padding: 10px;
+        }
+
+        .control-label {
+            color: #00ff00;
+            font-weight: bold;
+        }
+
+        .text-danger {
+            color: #ff0000;
+        }
+
+        .btn-primary {
+            background-color: #00ff00;
+            color: #000;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-transform: uppercase;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+
+            .btn-primary:hover {
+                background-color: #009900;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Create</h1>
+
+        <h4>Schedule</h4>
+        <hr />
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="ID" class="control-label">ID</label>
+                        <input asp-for="ID" class="form-control" />
+                        <span asp-validation-for="ID" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Title" class="control-label">Title</label>
+                        <input asp-for="Title" class="form-control" />
+                        <span asp-validation-for="Title" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Content" class="control-label">Content</label>
+                        <input asp-for="Content" class="form-control" />
+                        <span asp-validation-for="Content" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DateTime" class="control-label">DateTime</label>
+                        <input asp-for="DateTime" class="form-control" type="date" />
+                        <span asp-validation-for="DateTime" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="EndDateTime" class="control-label">EndDateTime</label>
+                        <input asp-for="EndDateTime" class="form-control" type="date" />
+                        <span asp-validation-for="EndDateTime" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

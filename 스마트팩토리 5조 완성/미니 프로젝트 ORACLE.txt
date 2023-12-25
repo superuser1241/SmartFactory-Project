@@ -1,0 +1,63 @@
+서버 ORACLE DB
+
+CREATE TABLE 주문(
+제품 VARCHAR(30),
+수량 NUMBER(20),
+판매가 NUMBER(30),
+총금액 NUMBER(30)
+);
+
+CREATE TABLE 판매(
+제품 VARCHAR(30) PRIMARY KEY,
+수량 NUMBER(20)
+);
+
+INSERT INTO 판매
+VALUES  ('프리폼', 50);
+
+INSERT INTO 판매
+VALUES  ('파우치', 80);
+
+INSERT INTO 판매
+VALUES  ('원통형 전지', 0);
+
+INSERT INTO 판매
+VALUES  ('Uni-direction Cell', 70);
+
+INSERT INTO 판매
+VALUES  ('Bi-direction Cell', 10);
+
+INSERT INTO 판매
+VALUES  ('Long Cell', 0);
+
+INSERT INTO 판매
+VALUES  ('Low Height Cell', 65);
+
+INSERT INTO 판매
+VALUES  ('Tall Pack', 90);
+
+INSERT INTO 판매
+VALUES  ('Narrow Pack', 30);
+
+INSERT INTO 판매
+VALUES  ('Stepped Pack', 55);
+
+INSERT INTO 판매
+VALUES  ('Flat Pack', 25);
+
+COMMIT;
+
+
+
+
+
+클라이언트 ORACLE DB
+
+CREATE TABLE ACCOUNT(
+ID VARCHAR(20) NOT NULL PRIMARY KEY,
+PW VARCHAR(20) NOT NULL,
+주소 VARCHAR(30) NOT NULL,
+연락처 VARCHAR(20) NOT NULL
+);
+
+COMMIT;

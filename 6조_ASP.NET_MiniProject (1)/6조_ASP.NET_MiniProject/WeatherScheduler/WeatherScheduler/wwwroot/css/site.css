@@ -1,0 +1,169 @@
+/* Import Google font - Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* 완성된 날씨 인풋 사이즈 */
+.weather-input {
+    width: 500px;
+}
+/* 포괄적인 틀의 크기를 설정할 때*/
+.weather-input input {
+    height: 46px;
+    width: 80%;
+    outline: none;
+    font-size: 1.07rem;
+    padding: 0 17px;
+    margin: 10px 0 20px 0;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+
+/* 버튼 옵션 */
+.weather-input button {
+    width: 18%;
+    padding: 10px 0;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    color: #fff;
+    background: #5c636a;
+    transition: 0.2s ease;
+}
+
+.current-weather h2 {
+    font-weight: 50;
+    font-size: 1.4rem;
+}
+
+
+.weather-data h6 {
+    margin-top: 12px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+
+.current-weather .icon {
+    text-align: center;
+}
+
+.current-weather .icon img {
+    max-width: 80px;
+    margin-top: -15px;
+}
+
+.current-weather .icon h6 {
+    margin-top: -10px;
+    text-transform: capitalize;
+}
+
+
+.weather-input .search-btn:hover {
+    background: #2c52ed;
+}
+
+.weather-input .location-btn {
+    background: #6C757D;
+}
+
+.weather-input .location-btn:hover {
+    background: #5c636a;
+}
+
+.weather-data {
+    width: 100%;
+}
+
+/* 5-Day Forecast 마진 */
+.days-forecast h2 {
+    margin: 20px 0;
+    font-size: 1.5rem;
+}
+/* 5-Day card 형태, gap */
+.days-forecast .weather-cards {
+    display: flex;
+    gap: 20px;
+}
+/* 5-Day card 백그라운드, 텍스트 컬러, 여기도 카드가 만약 radius 이질감이 들면 수정. */
+.weather-cards .card {
+    color: #fff;
+    padding: 18px 16px;
+    list-style: none;
+    width: calc(100% / 5);
+    background: #6C757D;
+    border-radius: 5px;
+}
+
+/* 카드 헤더 부분 */
+.weather-cards .card h3 {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+/* 카드 이미지 크기, 마진 조작*/
+.weather-cards .card img {
+    max-width: 70px;
+    margin: 5px 0 -12px 0;
+}
+
+/* 화면의 크기가 줄어들었을 때 능동적으로 변경 */
+@media (max-width: 1400px) {
+    .weather-data .current-weather {
+        padding: 20px;
+    }
+
+    .weather-cards {
+        flex-wrap: wrap;
+    }
+
+    .weather-cards .card {
+        width: calc(100% / 4 - 15px);
+    }
+}
+
+
+/* 카드 크기 */
+@media (max-width: 1200px) {
+    .weather-cards .card {
+        width: calc(100% / 3 - 15px);
+    }
+}
+
+@media (max-width: 950px) {
+    .weather-input {
+        width: 450px;
+    }
+
+    .weather-cards .card {
+        width: calc(100% / 2 - 10px);
+    }
+}
+
+@media (max-width: 750px) {
+    h1 {
+        font-size: 1.45rem;
+        padding: 16px 0;
+    }
+
+    .container {
+        flex-wrap: wrap;
+        padding: 15px;
+    }
+
+    .weather-input {
+        width: 100%;
+    }
+
+    .weather-data h2 {
+        font-size: 1.35rem;
+    }
+}
